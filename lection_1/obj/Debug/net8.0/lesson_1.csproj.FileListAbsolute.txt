@@ -1,0 +1,5 @@
+/Users/test/Desktop/programming_languages/lesson_1/obj/Debug/net8.0/lesson_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Desktop/programming_languages/lesson_1/obj/Debug/net8.0/lesson_1.AssemblyInfoInputs.cache
+/Users/test/Desktop/programming_languages/lesson_1/obj/Debug/net8.0/lesson_1.AssemblyInfo.cs
+/Users/test/Desktop/programming_languages/lesson_1/obj/Debug/net8.0/lesson_1.csproj.CoreCompileInputs.cache
+/Users/test/Desktop/programming_languages/lesson_1/obj/Debug/net8.0/lesson_1.sourcelink.json

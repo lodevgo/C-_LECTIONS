@@ -1,0 +1,15 @@
+/Users/test/Desktop/programming_languages/lesson_1/task_5/obj/Debug/net8.0/task_5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Desktop/programming_languages/lesson_1/task_5/obj/Debug/net8.0/task_5.AssemblyInfoInputs.cache
+/Users/test/Desktop/programming_languages/lesson_1/task_5/obj/Debug/net8.0/task_5.AssemblyInfo.cs
+/Users/test/Desktop/programming_languages/lesson_1/task_5/obj/Debug/net8.0/task_5.csproj.CoreCompileInputs.cache
+/Users/test/Desktop/programming_languages/lesson_1/task_5/obj/Debug/net8.0/task_5.sourcelink.json
+/Users/test/Desktop/programming_languages/lesson_1/task_5/bin/Debug/net8.0/task_5
+/Users/test/Desktop/programming_languages/lesson_1/task_5/bin/Debug/net8.0/task_5.deps.json
+/Users/test/Desktop/programming_languages/lesson_1/task_5/bin/Debug/net8.0/task_5.runtimeconfig.json
+/Users/test/Desktop/programming_languages/lesson_1/task_5/bin/Debug/net8.0/task_5.dll
+/Users/test/Desktop/programming_languages/lesson_1/task_5/bin/Debug/net8.0/task_5.pdb
+/Users/test/Desktop/programming_languages/lesson_1/task_5/obj/Debug/net8.0/task_5.dll
+/Users/test/Desktop/programming_languages/lesson_1/task_5/obj/Debug/net8.0/refint/task_5.dll
+/Users/test/Desktop/programming_languages/lesson_1/task_5/obj/Debug/net8.0/task_5.pdb
+/Users/test/Desktop/programming_languages/lesson_1/task_5/obj/Debug/net8.0/task_5.genruntimeconfig.cache
+/Users/test/Desktop/programming_languages/lesson_1/task_5/obj/Debug/net8.0/ref/task_5.dll
