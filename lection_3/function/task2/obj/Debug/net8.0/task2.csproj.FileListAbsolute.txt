@@ -1,0 +1,15 @@
+/Users/test/Desktop/geek_brains/C#/Лекции/lection_3/function/task2/obj/Debug/net8.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Desktop/geek_brains/C#/Лекции/lection_3/function/task2/obj/Debug/net8.0/task2.AssemblyInfoInputs.cache
+/Users/test/Desktop/geek_brains/C#/Лекции/lection_3/function/task2/obj/Debug/net8.0/task2.AssemblyInfo.cs
+/Users/test/Desktop/geek_brains/C#/Лекции/lection_3/function/task2/obj/Debug/net8.0/task2.csproj.CoreCompileInputs.cache
+/Users/test/Desktop/geek_brains/C#/Лекции/lection_3/function/task2/obj/Debug/net8.0/task2.sourcelink.json
+/Users/test/Desktop/geek_brains/C#/Лекции/lection_3/function/task2/bin/Debug/net8.0/task2
+/Users/test/Desktop/geek_brains/C#/Лекции/lection_3/function/task2/bin/Debug/net8.0/task2.deps.json
+/Users/test/Desktop/geek_brains/C#/Лекции/lection_3/function/task2/bin/Debug/net8.0/task2.runtimeconfig.json
+/Users/test/Desktop/geek_brains/C#/Лекции/lection_3/function/task2/bin/Debug/net8.0/task2.dll
+/Users/test/Desktop/geek_brains/C#/Лекции/lection_3/function/task2/bin/Debug/net8.0/task2.pdb
+/Users/test/Desktop/geek_brains/C#/Лекции/lection_3/function/task2/obj/Debug/net8.0/task2.dll
+/Users/test/Desktop/geek_brains/C#/Лекции/lection_3/function/task2/obj/Debug/net8.0/refint/task2.dll
+/Users/test/Desktop/geek_brains/C#/Лекции/lection_3/function/task2/obj/Debug/net8.0/task2.pdb
+/Users/test/Desktop/geek_brains/C#/Лекции/lection_3/function/task2/obj/Debug/net8.0/task2.genruntimeconfig.cache
+/Users/test/Desktop/geek_brains/C#/Лекции/lection_3/function/task2/obj/Debug/net8.0/ref/task2.dll
